@@ -4,7 +4,7 @@
  * print_alphabet_x10 - prints the lowercase alphabets x10
  */
 
-void print_alphabet-x10(void)
+void print_alphabet_x10(void)
 {
 	int count = 1;
 	char ch;
