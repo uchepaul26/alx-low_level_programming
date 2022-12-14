@@ -7,9 +7,9 @@
 void jack_bauer(void)
 {
 	int min = 0;
-	int hr = 0;
+	int hr;
 
-	while (hr < 24)
+	while (hr = 0; hr < 24; hr++)
 	{
 		while (min < 60)
 		{
@@ -21,6 +21,5 @@ void jack_bauer(void)
 			_putchar('\n');
 			min++;
 		}
-		hr++;
 	}
 }
